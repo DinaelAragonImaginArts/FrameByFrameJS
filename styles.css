@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#canvas1{
+   
+    position: absolute;
+}
+.controls{
+    position: absolute;
+    z-index: 100;
+}
+img{
+    display: none;
+}
+button {
+    padding: 10px 60px;
+    font-size: 20px;
+    margin: 30%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #302d5a;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-align: center;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    box-shadow: 0 0 5px #292929;
+}
